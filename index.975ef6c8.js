@@ -27188,11 +27188,11 @@ const imageAltText = "purple and blue abstract background";
  * passionate about, or enjoy,
  */ const skillsList = [
     "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design", 
+    "NodeJS",
+    "C++",
+    "Git and GitHub",
+    "JavaScript",
+    "Java", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
